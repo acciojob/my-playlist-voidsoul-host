@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+body{
+	background-color: #cccccc;
+	align-items: center
+}
+h1, h4{
+	text-align: center
+}
+h4{
+	margin-top:0px;
+}
+.player_one{
+	border: 1px solid black;
+	border-radius: 4px;
+	text-decoration: none;
+	background-color: white;
+	width: 100%;
+	margin-bottom: 0px;
+}
+/* .rough{
+	position: relative;
+	width: 100%;
+	text-align: center;
+	border: 1px solid black;
+} */
+.player_two{
+	text-align: center;
+	border: 1px solid black;
+	border-radius: 4px;
+	text-decoration: none;
+	background-color: white;
+	padding: 5px;
+	width: 330px
+	
+}
